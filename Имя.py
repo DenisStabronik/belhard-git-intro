@@ -1,3 +1,6 @@
-text = input("Как тебя зовут? ")
-print("Привет", text)
+text = input('Как тебя зовут? ')
+print('Привет', text)
 print('Меня зовут Петя')
+print('Хорошая погода не правда ли?')
+answer = input('Ответить что то ')
+print(answer)
