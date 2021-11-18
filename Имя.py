@@ -10,3 +10,4 @@ else:
     print('почему?')
 answer_2 = input('Ответить что то ')
 print(answer_2)
+print('у меня хорошее настроение')
