@@ -7,4 +7,4 @@ client = MongoClient('localhost', 27017)
 db = client['SeriesDB']
 
 # Fetch our series collection
-series_collection = db['series']
+series_collection = db['series']                      
